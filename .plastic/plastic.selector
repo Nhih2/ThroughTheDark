@@ -1,0 +1,4 @@
+repository "Fairy Out!/Fairy Out!@18968066917503@cloud"
+  path "/"
+    br "/main"
+    co "/main"

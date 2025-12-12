@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Killer
+  - Checkpoint
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - Ignore_Light
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 104264765
+    locked: 0
+  - name: BG_Object
+    uniqueID: 1237797075
+    locked: 0
+  - name: Ground
+    uniqueID: 2642017867
+    locked: 0
+  - name: Player
+    uniqueID: 2477517681
+    locked: 0
+  - name: FG_Object
+    uniqueID: 344046261
+    locked: 0
+  - name: IgnoreLight
+    uniqueID: 1838256895
+    locked: 0
+  m_RenderingLayers:
+  - Default
